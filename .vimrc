@@ -37,4 +37,10 @@ syntax on
 " Colors
 colorscheme gruvbox
 set background=dark
+
+" Disable arrows
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
 " ========== Basics =========
